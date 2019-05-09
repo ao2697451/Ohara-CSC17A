@@ -2,7 +2,11 @@
  * Project 2
    Allison Ohara
     Monopoly (based off of Project 1) with the addition of jail, houses, colors, railroads, utilities, 
-    This Project also utilizes classes, inheritance, operator overloading, polymorphism, and templates
+    This Project also will utilize classes, inheritance, operator overloading, polymorphism, and templates.
+    This is Version 1; changes from project 2 include the addition of classes (properties are now in a class rather than a 
+    structure) and both railroads and utilities are now shown on the gameboard. However, these do not yet do anything.
+    Concepts Added for Version 1: classes, inheritance, operator overloading
+    Line Count: 717
  */
 
 #include <iostream> 
